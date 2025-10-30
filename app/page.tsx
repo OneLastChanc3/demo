@@ -1,9 +1,9 @@
 
 const page = () => {
   return (
-    <div>
-      Analytics
-    </div>
+    <h1>
+        welcome to next.js 16
+    </h1>
   )
 }
 
